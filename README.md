@@ -43,12 +43,14 @@ The Book-Crossing dataset comprises 3 files.
 
 **Getting Started**
 
-1. Clone this repo (for help see this tutorial).
+1. **Clone this repo** (for help see this tutorial).
 
-2. Raw Data
+2. **Raw Data**
 
  Users_data is being kept here within this repo.
+ 
  Ratings_data is being kept here within this repo.
+ 
  Books_data is being kept here
  
-Complete notebook containing Data exploration/Data processing/transformation/model development is being kept here.
+3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept here.
